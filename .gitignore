@@ -1,0 +1,12 @@
+# npm
+node_modules/
+
+# Package-lock.json
+package-lock.json
+
+# Visual Studio Code
+.vscode/
+
+# Environment variables file
+.env
+.env.local
